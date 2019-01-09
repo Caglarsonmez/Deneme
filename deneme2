@@ -1,0 +1,22 @@
+	Müşteri Bilgileri																																				
+																																					
+	 Ad-Soyad/Unvan:					ÇAĞLAR SÖNMEZ																															
+	 Müşteri Tipi:					800-PERSONEL						Şube:			1192										SBU:			0410-PERAKENDE-BİREYSEL									
+     																																					
+	 Hesap Numarası:					47555543    TL						IBAN Numarası:						TR360006701000000047555543							Müşteri Numarası:							3693513					
+	   Hesap Şubesi:					332 - MERKEZ PLAZA ŞUBESİ																															
+	     																																				
+		Başlangıç Tarihi:					02.01.2019									Bitiş Tarihi:				09.01.2019																	
+	     																																				
+	Tarih			Valör				Açıklama			İşlem Tutarı	İşlem Saati					Bakiye		Kontrat No		Kullanıcı		SBU	Müşteri						İşlem No			Dekont No				
+	31.12.2018			 				AÇILIŞ BAKİYESİ KULL:			88.888,45	DEFTER:					999.999,99		 		 		 	 						 							
+	02.01.2019			02.01.2019				GIDEN HAVALE -DİDEM GÜLŞEN KAYIŞOĞLU -Evora T Parsel D116 Ocak -50779791			88.888,45	09:18:11					999.999,99		226464082620		INT001		0410	3693513						0201190MTPOST0016942540000000			2264698447238				
+	02.01.2019			02.01.2019				GİDEN EFT - ÇAĞLAR SÖNMEZ - ÇAĞLAR SÖNMEZ			88.888,45	09:19:15					999.999,99		226464083720		INT001		0410	3693513						0201190INT0017200000000000000			2264698452812				
+	02.01.2019			 				GÜNSONU BAKİYESİ KULL:			88.888,45	DEFTER:					999.999,99		 		 		 	 						 							
+	04.01.2019			04.01.2019				GIDEN HAVALE -			88.888,45	09:31:29					999.999,99		226481919768		INT001		0410	3693513						0401190MTPOST0016942540005328			2264810701517				
+	04.01.2019			 				GÜNSONU BAKİYESİ KULL:			88.888,45	DEFTER:					999.999,99		 		 		 	 						 							
+	07.01.2019			08.01.2019				GELEN EFT - 			88.888,45	09:35:02					999.999,99		226519390432		SYSTEM-		0410	3693513						070119SYSTEM-4320000000000155			2265125051016				
+	07.01.2019			07.01.2019				GİDEN EFT - Çağlar Sönmez - Transfer			88.888,45	09:37:13					999.999,99		226510019962		INT001		0410	3693513						0701190INT0019620000000000000			2265125066420				
+	07.01.2019			07.01.2019				GIDEN HAVALE -			88.888,45	11:50:34					999.999,99		226519105157		INT001		0410	3693513						0701190MTPOST0013075360000000			2265126317313				
+	07.01.2019			 				GÜNSONU BAKİYESİ KULL:			88.888,45	DEFTER:					999.999,99																				
+	08.01.2019			 				KAPANIŞ BAKİYESİ KULL:			88.888,45	DEFTER:					999.999,99		 		 		 	 						 							
