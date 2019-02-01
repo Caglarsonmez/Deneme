@@ -1,0 +1,30 @@
+anti_vir_servers = []
+
+ucmdb_servers = []
+
+result = []
+match_result = []
+nmatch_res = []
+print_result = []
+
+for i in ucmdb_servers:
+    for x in anti_vir_servers:
+        if x.find(i)>=0:
+            ph = i + " ; " + x
+            match_result.append(i)
+            print_result.append(ph)
+            
+                
+        
+for x in ucmdb_servers:
+    if x not in match_result:
+        nmatch_res.append(x)
+
+for y in print_result:
+    with open("Eslesenler.txt","a") as esles:
+                esles.write(y+"\n")
+
+for n in nmatch_res:
+    with open("Eslesmeyenler.txt","a") as eslesme:
+                eslesme.write(n+"\n")
+
